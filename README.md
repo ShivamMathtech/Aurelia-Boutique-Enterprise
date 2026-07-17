@@ -2,9 +2,12 @@
 
 A complete boutique fashion commerce project with a premium React storefront, FastAPI backend, protected administrator panel, size-and-colour inventory, checkout, orders, promotions, customer management, content controls, PostgreSQL deployment assets and seeded demonstration data.
 
+![image](image.png)
+
 ## Core capabilities
 
 ### Customer storefront
+
 - Responsive boutique landing page, editorial sections, collections and product catalogue
 - Search by style, brand, fabric, SKU or occasion
 - Collection, size, colour, featured, bestseller, price and sorting filters
@@ -19,6 +22,7 @@ A complete boutique fashion commerce project with a premium React storefront, Fa
 - Mobile, tablet and desktop layouts
 
 ### Administrator panel
+
 - Role-protected enterprise operations workspace
 - Revenue, recent revenue, orders, customers, styles, variants and inventory KPIs
 - Product/style create, update, publish, feature, bestseller and delete controls
@@ -32,6 +36,7 @@ A complete boutique fashion commerce project with a premium React storefront, Fa
 - Administrative audit-log persistence
 
 ### Engineering foundation
+
 - React 19, TypeScript, Vite, React Router and Lucide icons
 - FastAPI, SQLAlchemy 2, Pydantic 2, JWT and Argon2
 - SQLite for zero-configuration local development
@@ -96,6 +101,7 @@ Start the frontend in terminal 2:
 ```
 
 Open:
+
 - Storefront: `http://localhost:5173`
 - Administrator panel: `http://localhost:5173/admin`
 - API documentation: `http://localhost:8000/docs`
